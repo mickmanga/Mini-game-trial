@@ -1,0 +1,6 @@
+{
+  "name": "Chitin & Runes — Codex des Champions Insectoïdes",
+  "description": "Canvas interactif et codex de 10 concepts originaux de champions inspirés de League of Legends, chacun incarnant une espèce d'insecte, un style artistique et un kit de compétences uniques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
